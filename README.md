@@ -92,6 +92,10 @@ services:
 docker compose up -d
 ```
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/SkySend/)
+
 Open [http://localhost:3000](http://localhost:3000). The documentation covers [every environment variable](https://docs.skysend.app/user-guide/configuration/environment-variables), [reverse proxies](https://docs.skysend.app/user-guide/self-hosting/reverse-proxy) and [S3 storage](https://docs.skysend.app/user-guide/configuration/s3). Images are built for AMD64 and ARM64.
 
 The [CLI client](https://docs.skysend.app/user-guide/client-cli/) installs with one line, on Linux and macOS:
